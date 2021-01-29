@@ -1,0 +1,35 @@
+2020-05-21 10:45:57,610 [MainThread  ] [INFO ]  Saved processed files to C:\Users\marti\AppData\Local\Temp\tmpl5ewocz2\model.
+2020-05-21 10:46:16,427 [MainThread  ] [INFO ]  Written ROUGE configuration to C:\Users\marti\AppData\Local\Temp\tmpd3wtyef_\rouge_conf.xml
+2020-05-21 10:46:16,427 [MainThread  ] [INFO ]  Running ROUGE with command perl  C:\pyrouge-master\tools\ROUGE-1.5.5\ROUGE-1.5.5.pl -e C:\pyrouge-master\tools\ROUGE-1.5.5\data -c 95 -2 -1 -U -r 1000 -n 4 -w 1.2 -a -m C:\Users\marti\AppData\Local\Temp\tmpd3wtyef_\rouge_conf.xml
+---------------------------------------------
+1 ROUGE-1 Average_R: 0.49887 (95%-conf.int. 0.49636 - 0.50139)
+1 ROUGE-1 Average_P: 0.37371 (95%-conf.int. 0.37123 - 0.37626)
+1 ROUGE-1 Average_F: 0.41692 (95%-conf.int. 0.41492 - 0.41911)
+---------------------------------------------
+1 ROUGE-2 Average_R: 0.16700 (95%-conf.int. 0.16461 - 0.16952)
+1 ROUGE-2 Average_P: 0.12242 (95%-conf.int. 0.12080 - 0.12424)
+1 ROUGE-2 Average_F: 0.13781 (95%-conf.int. 0.13603 - 0.13978)
+---------------------------------------------
+1 ROUGE-3 Average_R: 0.08544 (95%-conf.int. 0.08320 - 0.08774)
+1 ROUGE-3 Average_P: 0.06188 (95%-conf.int. 0.06034 - 0.06352)
+1 ROUGE-3 Average_F: 0.07004 (95%-conf.int. 0.06836 - 0.07190)
+---------------------------------------------
+1 ROUGE-4 Average_R: 0.05744 (95%-conf.int. 0.05537 - 0.05959)
+1 ROUGE-4 Average_P: 0.04151 (95%-conf.int. 0.04009 - 0.04305)
+1 ROUGE-4 Average_F: 0.04705 (95%-conf.int. 0.04545 - 0.04878)
+---------------------------------------------
+1 ROUGE-L Average_R: 0.23378 (95%-conf.int. 0.23153 - 0.23599)
+1 ROUGE-L Average_P: 0.17106 (95%-conf.int. 0.16962 - 0.17268)
+1 ROUGE-L Average_F: 0.19249 (95%-conf.int. 0.19100 - 0.19412)
+---------------------------------------------
+1 ROUGE-W-1.2 Average_R: 0.05226 (95%-conf.int. 0.05155 - 0.05297)
+1 ROUGE-W-1.2 Average_P: 0.10879 (95%-conf.int. 0.10765 - 0.11006)
+1 ROUGE-W-1.2 Average_F: 0.06813 (95%-conf.int. 0.06734 - 0.06894)
+---------------------------------------------
+1 ROUGE-S* Average_R: 0.23911 (95%-conf.int. 0.23672 - 0.24161)
+1 ROUGE-S* Average_P: 0.13699 (95%-conf.int. 0.13529 - 0.13878)
+1 ROUGE-S* Average_F: 0.16051 (95%-conf.int. 0.15882 - 0.16220)
+---------------------------------------------
+1 ROUGE-SU* Average_R: 0.24167 (95%-conf.int. 0.23926 - 0.24418)
+1 ROUGE-SU* Average_P: 0.13863 (95%-conf.int. 0.13693 - 0.14043)
+1 ROUGE-SU* Average_F: 0.16244 (95%-conf.int. 0.16076 - 0.16413)
